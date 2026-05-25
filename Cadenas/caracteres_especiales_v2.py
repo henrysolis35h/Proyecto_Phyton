@@ -19,3 +19,12 @@ print(mensaje4)
 # Cadenas cruda (raw string) r
 mensaje5 = r"C:\Usuarios\Marce\Documentos"
 print(mensaje5)
+
+
+mensaje5 = r"C:\Usuarios\Marce\Documentos"
+print(mensaje5)
+
+
+# Salto de linea \n
+mensaje6 = "Hola\nMundo yo soy phyton 2026"
+print(mensaje6)
