@@ -28,3 +28,8 @@ print(mensaje5)
 # Salto de linea \n
 mensaje6 = "Hola\nMundo yo soy phyton 2026"
 print(mensaje6)
+
+
+# Salto de linea \n
+mensaje7 = "Hola\nMundo yo soy Ingeniero de sistemas"
+print(mensaje7)
